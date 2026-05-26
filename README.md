@@ -14,7 +14,7 @@ Pour m'assurer que la logique de mon code Python correspondait parfaitement aux 
 Le code et les calculs théoriques tombent tous les deux sur le même résultat ultra-précis : **0.99999774**.
 
 ### Ma feuille de calcul :
-![Feuille de calcul](METS_LE_LIEN_DE_TON_IMAGE_ICI)
+![Feuille de calcul](https://github.com/yukrufesse/numpy-neural-network-from-scratch/blob/main/prouf%20of%20work.jpg?raw=true)
 
 ## 🚀 Comment lancer le projet
 ```bash

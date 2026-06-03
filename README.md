@@ -1,4 +1,3 @@
-Markdown
 # Réseau de Neurones Artificiels (From Scratch)
 
 Implémentation complète d'un Perceptron Multicouche (MLP) en Python, utilisant uniquement la bibliothèque **NumPy** pour comprendre l'algèbre linéaire sous-jacente des réseaux de neurones.

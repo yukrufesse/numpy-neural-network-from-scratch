@@ -16,6 +16,6 @@ Le code et les calculs théoriques tombent tous les deux sur le même résultat 
 ![Feuille de calcul](https://github.com/yukrufesse/numpy-neural-network-from-scratch/blob/main/prouf%20of%20work.jpg?raw=true)
 
 ## Comment lancer le projet:
-'''bash
 pip install numpy
-#Et lancer le fichier "main.py" dans le dossier "neuronal-network"
+
+lancer le fichier "main.py" dans le dossier "neuronal-network" 
